@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254110077535', 'zamzack254', true],
-  ['254110077535', 'kinflux digital', true], 
+  ['256708279747', 'Daren De Cyber', true],
+  ['256708279747', 'AMAK COMPANY', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['254110077535','254110377776'] 
-global.prems = ['254110077535', '254110377776', '254765777423']
+global.mods = ['256708279747','256708279747'] 
+global.prems = ['256708279747', '256708279747', '254765777423']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,14 +47,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot'
+global.botname = 'cyber-machine'
 global.premium = 'true'
-global.packname = 'kinflux┃ᴮᴼᵀ' 
+global.packname = 'cyber de Daren' 
 global.author = 'zamzack254' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
-global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
+global.igfg = '▢ Follow on Whatsapp\nhttps://chat.whatsapp.com/KPKknv0JW1eFEcWodIf5Br\n' 
+global.dygp = 'https://chat.whatsapp.com/KPKknv0JW1eFEcWodIf5Br'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
+global.fgyt = 'https://chat.whatsapp.com/KPKknv0JW1eFEcWodIf5Br'
 global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
